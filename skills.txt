@@ -1,0 +1,17 @@
+Skill 1: Theory of software testing and quality assurance
+Skill 2: Clent-server architecture
+Skill 3: HTTP request methods
+Skill 4: JSON, XML
+Skill 5: Postman
+Skill 6: Charles, Fiddler
+Skill 7: Dev Tools
+Skill 8: VPN
+Skill 9: Mobile testing
+Skill 10: Android Studio
+Skill 11: Terminal
+Skill 12: SQL (Create, Delete, Drop, Insert Into, Select, From, Where, Join)
+Skill 13: Postgress
+Skill 14: Redis
+Skill 15: Jmeter
+Skill 16: Scrum
+Skill 17: Python
